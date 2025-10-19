@@ -1,0 +1,150 @@
+{
+  "request_id": "podcast_e8ae07f6",
+  "last_updated": "2025-10-19T12:38:56.993096+00:00",
+  "extraction_status": "completed",
+  "created_at": "2025-10-19T12:38:56.993105+00:00",
+  "audio_file_path": "/Users/powaiinnovationoffice/Desktop/GenAI Projects/ADK-Podcast/output_generated/podcast_e8ae07f6.wav",
+  "markdown_file_path": "/Users/powaiinnovationoffice/Desktop/GenAI Projects/ADK-Podcast/output_generated/podcast_e8ae07f6.md",
+  "data": {
+    "title": "Latest AI Advancements: NASDAQ-Listed US Companies",
+    "report_summary": "This report summarizes the latest developments in Artificial Intelligence among US-listed companies on the NASDAQ exchange, highlighting innovations in hardware, software, data analytics, cybersecurity, and cloud services. The AI market shows strong growth and significant investment, driving advancements across various sectors.",
+    "stories": [
+      {
+        "company": "NVIDIA",
+        "ticker": "NVDA",
+        "summary": "Continues leadership in AI acceleration with GPUs essential for AI training and inference. Saw gains following strong earnings from TSMC.",
+        "why_it_matters": "NVIDIA's hardware is foundational to the current AI revolution, and their continued performance indicates strong market demand and innovation in the AI infrastructure space.",
+        "financial_context": "$183.22 (+77.55%)",
+        "source_domain": "Various news sources",
+        "process_log": "No specific filters applied."
+      },
+      {
+        "company": "Advanced Micro Devices",
+        "ticker": "AMD",
+        "summary": "Benefiting from intense competition among AI model developers, with OpenAI planning to deploy a substantial number of AMD Instinct MI450 GPUs.",
+        "why_it_matters": "AMD is emerging as a strong competitor in the AI chip market, offering alternatives to NVIDIA and indicating a diversifying supply chain for AI hardware.",
+        "financial_context": "$233.08 (-63.10%)",
+        "source_domain": "Various news sources",
+        "process_log": "No specific filters applied."
+      },
+      {
+        "company": "CoreWeave",
+        "ticker": "CRWV",
+        "summary": "Completed its Nasdaq listing in March 2025 and partnered with Poolside to provide advanced AI cloud services, including over 40,000 NVIDIA GB300 NVL72 systems.",
+        "why_it_matters": "CoreWeave's direct listing and significant hardware investment highlight the growing demand for specialized AI cloud infrastructure and the capital flowing into this sector.",
+        "financial_context": "$136.87 (-343.59%)",
+        "source_domain": "Various news sources",
+        "process_log": "No specific filters applied."
+      },
+      {
+        "company": "Arm Holdings",
+        "ticker": "ARM",
+        "summary": "Strengthening its position in AI through collaborations with companies like Meta Platforms, aiming to power AI systems for Facebook and Instagram.",
+        "why_it_matters": "Arm's architecture is becoming increasingly relevant for AI applications, particularly in mobile and edge computing, signaling its expansion beyond traditional CPU markets.",
+        "financial_context": "$165.61 (-325.95%)",
+        "source_domain": "Various news sources",
+        "process_log": "No specific filters applied."
+      },
+      {
+        "company": "Palantir Technologies",
+        "ticker": "PLTR",
+        "summary": "Experiencing significant demand in the private sector for its AI-powered data analytics platforms, helping organizations derive actionable insights and achieve cost savings.",
+        "why_it_matters": "Palantir's success demonstrates the strong enterprise demand for AI solutions that can process complex data and deliver tangible business value.",
+        "financial_context": "$178.15 (+1.68%)",
+        "source_domain": "Various news sources",
+        "process_log": "No specific filters applied."
+      },
+      {
+        "company": "Atlassian",
+        "ticker": "TEAM",
+        "summary": "Introduced \"Rovo,\" a conversational AI product to enhance intelligent search and automate workflows across products like Jira and Confluence. Recognized by Gartner as an emerging leader in generative AI.",
+        "why_it_matters": "Atlassian's integration of generative AI into its widely used collaboration tools shows how AI is being embedded into everyday business software to improve productivity and user experience.",
+        "financial_context": "$151.95 (+121.23%)",
+        "source_domain": "Various news sources",
+        "process_log": "No specific filters applied."
+      },
+      {
+        "company": "SoundHound AI",
+        "ticker": "SOUN",
+        "summary": "Partnered with Apivia Courtage to deploy its agentic AI platform in contact centers, aiming to automate complex customer service tasks. Reported record Q2 2025 revenue.",
+        "why_it_matters": "SoundHound's advancements in agentic AI for customer service illustrate the potential for AI to transform industries by automating complex interactions and improving efficiency.",
+        "financial_context": "$19.02 (-838.15%)",
+        "source_domain": "Various news sources",
+        "process_log": "No specific filters applied."
+      },
+      {
+        "company": "Fortinet",
+        "ticker": "FTNT",
+        "summary": "Integrating AI into its cybersecurity solutions to combat increasingly sophisticated cyber threats.",
+        "why_it_matters": "The increasing use of AI in cybersecurity highlights its crucial role in defending against advanced threats and evolving the security landscape.",
+        "financial_context": "$83.44 (+36.08%)",
+        "source_domain": "Various news sources",
+        "process_log": "No specific filters applied."
+      },
+      {
+        "company": "Nasdaq, Inc.",
+        "ticker": "NDAQ",
+        "summary": "Embedded advanced AI capabilities into its market surveillance platform to improve the detection of market abuse and reduce false positives. A survey indicates financial firms plan to increase AI investment for compliance.",
+        "why_it_matters": "Nasdaq's adoption of AI for market surveillance underscores the technology's application in critical financial infrastructure for regulatory compliance and market integrity.",
+        "financial_context": "$88.59 (+73.91%)",
+        "source_domain": "Various news sources",
+        "process_log": "No specific filters applied."
+      },
+      {
+        "company": "Nebius Group",
+        "ticker": "NBIS",
+        "summary": "A new entity from Yandex restructuring, saw its stock jump significantly in 2025 by offering \"neocloud\" services for AI workloads.",
+        "why_it_matters": "The rapid growth of Nebius Group points to the strong market demand for specialized cloud services optimized for AI workloads, indicating a niche but growing sector.",
+        "financial_context": "$113.44 (-780.23%)",
+        "source_domain": "Various news sources",
+        "process_log": "No specific filters applied."
+      },
+      {
+        "company": "The Trade Desk",
+        "ticker": "TTD",
+        "summary": "Uses its AI-powered Kokai platform for ad campaign management.",
+        "why_it_matters": "The Trade Desk's use of AI in advertising demonstrates how AI is optimizing marketing strategies and improving the effectiveness of digital ad campaigns.",
+        "financial_context": "$49.98 (+16.03%)",
+        "source_domain": "Various news sources",
+        "process_log": "No specific filters applied."
+      },
+      {
+        "company": "ON Semiconductor",
+        "ticker": "ON",
+        "summary": "Leveraging AI for growth and innovation in the semiconductor space.",
+        "why_it_matters": "Companies like ON Semiconductor are crucial for providing the foundational components that enable AI development and deployment across various industries.",
+        "financial_context": "$52.53 (-83.07%)",
+        "source_domain": "Various news sources",
+        "process_log": "No specific filters applied."
+      },
+      {
+        "company": "KLA",
+        "ticker": "KLAC",
+        "summary": "Leveraging AI for growth and innovation in the semiconductor space.",
+        "why_it_matters": "KLA's role in the semiconductor industry, supported by AI, highlights the technology's impact on manufacturing and quality control for essential AI hardware.",
+        "financial_context": "$1106.66 (+71.53%)",
+        "source_domain": "Various news sources",
+        "process_log": "No specific filters applied."
+      },
+      {
+        "company": "Micron Technology",
+        "ticker": "MU",
+        "summary": "Leveraging AI for growth and innovation in the semiconductor space.",
+        "why_it_matters": "Micron's involvement in AI through memory solutions is vital, as AI workloads require significant memory capacity and performance, driving innovation in this area.",
+        "financial_context": "$202.38 (-7.41%)",
+        "source_domain": "Various news sources",
+        "process_log": "No specific filters applied."
+      },
+      {
+        "company": "Monolithic Power System",
+        "ticker": "MPWR",
+        "summary": "Leveraging AI for growth and innovation in the semiconductor space.",
+        "why_it_matters": "Companies like Monolithic Power Systems provide power management solutions essential for the efficient operation of AI hardware, an often overlooked but critical component of the AI ecosystem.",
+        "financial_context": "$1004.65 (-216.00%)",
+        "source_domain": "Various news sources",
+        "process_log": "No specific filters applied."
+      }
+    ]
+  },
+  "story_count": 15
+}

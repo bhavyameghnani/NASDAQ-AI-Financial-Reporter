@@ -1,0 +1,150 @@
+{
+  "request_id": "podcast_0064e948",
+  "last_updated": "2025-10-19T04:21:13.093972+00:00",
+  "extraction_status": "completed",
+  "created_at": "2025-10-19T04:21:13.093985+00:00",
+  "audio_file_path": "ai_today_podcast.wav",
+  "markdown_file_path": "ai_research_report.md",
+  "data": {
+    "title": "AI News Report for NASDAQ-listed US Companies",
+    "report_summary": "This report summarizes recent advancements in Artificial Intelligence among NASDAQ-listed US companies, highlighting key partnerships, chip development, and AI applications across various sectors. The data indicates significant investments and strategic initiatives driving innovation in AI infrastructure, financial services, and enterprise solutions.",
+    "stories": [
+      {
+        "company": "Microsoft",
+        "ticker": "MSFT",
+        "summary": "Microsoft and Nebius shares surged following a US$17.4 billion AI deal with Microsoft.",
+        "why_it_matters": "Significant investment in AI by a major tech player, impacting stock performance of both companies.",
+        "financial_context": "MSFT: $513.58 (+38.51%), NBIS: $113.44 (-780.23%)",
+        "source_domain": "Not Available",
+        "process_log": "Not Available"
+      },
+      {
+        "company": "Broadcom",
+        "ticker": "AVGO",
+        "summary": "OpenAI has partnered with Broadcom to co-develop custom AI chips, aiming to deploy 10 gigawatts of custom AI accelerators.",
+        "why_it_matters": "Broadcom's involvement in cutting-edge AI chip development, indicating future growth in AI infrastructure.",
+        "financial_context": "AVGO: $349.33 (-136.10%)",
+        "source_domain": "Not Available",
+        "process_log": "Not Available"
+      },
+      {
+        "company": "Advanced Micro Devices",
+        "ticker": "AMD",
+        "summary": "OpenAI announced a deal with Advanced Micro Devices to deploy hundreds of thousands of AMD's MI450 GPUs. Oracle will also deploy AMD-powered MI450 GPUs.",
+        "why_it_matters": "Validation of AMD's GPU capabilities and a large-scale deployment in AI infrastructure.",
+        "financial_context": "AMD: $233.08 (-63.10%)",
+        "source_domain": "Not Available",
+        "process_log": "Not Available"
+      },
+      {
+        "company": "Arm Holdings",
+        "ticker": "ARM",
+        "summary": "Reports indicate OpenAI is partnering with Arm Holdings to produce custom CPUs to work alongside its Broadcom co-designed chip.",
+        "why_it_matters": "Arm's expansion into custom AI CPU development for a leading AI research company.",
+        "financial_context": "ARM: $165.61 (-325.95%)",
+        "source_domain": "Not Available",
+        "process_log": "Not Available"
+      },
+      {
+        "company": "NVIDIA",
+        "ticker": "NVDA",
+        "summary": "NVIDIA remains a global leader in GPU technology, committed US$100 billion to OpenAI for AI infrastructure, and delivered a record quarter due to booming AI demand.",
+        "why_it_matters": "NVIDIA's dominant position and significant investment in powering the AI industry.",
+        "financial_context": "NVDA: $183.22 (+77.55%)",
+        "source_domain": "Not Available",
+        "process_log": "Not Available"
+      },
+      {
+        "company": "Nasdaq",
+        "ticker": "NDAQ",
+        "summary": "Nasdaq is embedding AI capabilities in its market surveillance platform to improve market abuse detection, with a pilot showing significant improvement.",
+        "why_it_matters": "Application of AI in financial compliance and regulatory technology to enhance market integrity.",
+        "financial_context": "NDAQ: $88.59 (+73.91%)",
+        "source_domain": "Not Available",
+        "process_log": "Not Available"
+      },
+      {
+        "company": "Entero Therapeutics",
+        "ticker": "ENTO",
+        "summary": "Entero Therapeutics launched Grid AI Corp to focus on how AI infrastructure connects to the power grid, addressing projected quadrupling of AI data center power demand.",
+        "why_it_matters": "Addressing critical infrastructure challenges posed by the growing energy demands of AI data centers.",
+        "financial_context": "ENTO: $4.96 (+143.15%)",
+        "source_domain": "Not Available",
+        "process_log": "Not Available"
+      },
+      {
+        "company": "Synaptics",
+        "ticker": "SYNA",
+        "summary": "Synaptics announced the new Astra SL2600 Series of multimodal Edge AI processors for cost-effective intelligent devices in the cognitive IoT.",
+        "why_it_matters": "Advancements in edge AI processing for smarter IoT devices.",
+        "financial_context": "SYNA: $69.45 (-64.38%)",
+        "source_domain": "Not Available",
+        "process_log": "Not Available"
+      },
+      {
+        "company": "Cisco",
+        "ticker": "CSCO",
+        "summary": "Cisco released its third annual AI Readiness Index, highlighting that \"Pacesetter\" companies are four times more likely to move AI pilots into production.",
+        "why_it_matters": "Insights into AI adoption and successful implementation strategies for businesses.",
+        "financial_context": "CSCO: $70.13 (+150.53%)",
+        "source_domain": "Not Available",
+        "process_log": "Not Available"
+      },
+      {
+        "company": "Palantir Technologies",
+        "ticker": "PLTR",
+        "summary": "Palantir Technologies is seeing increasing demand for its AI-powered software in the private sector, driving significant cost savings.",
+        "why_it_matters": "Growing enterprise adoption of AI for operational efficiency and cost reduction.",
+        "financial_context": "PLTR: $178.15 (+1.68%)",
+        "source_domain": "Not Available",
+        "process_log": "Not Available"
+      },
+      {
+        "company": "Alphabet",
+        "ticker": "GOOGL",
+        "summary": "Alphabet created the AI chatbot Gemini, integrated into its products, and introduced custom AI chips for cloud services customers.",
+        "why_it_matters": "Google's strong push in foundational AI models and custom hardware for its cloud services.",
+        "financial_context": "GOOGL: $253.30 (+73.17%)",
+        "source_domain": "Not Available",
+        "process_log": "Not Available"
+      },
+      {
+        "company": "Meta Platforms",
+        "ticker": "META",
+        "summary": "Meta Platforms has developed the Llama language model, integrated across its social media platforms, with Llama 4 Maverick and Llama 4 Scout released in April 2025.",
+        "why_it_matters": "Meta's open-source AI efforts and integration of advanced AI models into its vast user base.",
+        "financial_context": "META: $716.91 (+68.04%)",
+        "source_domain": "Not Available",
+        "process_log": "Not Available"
+      },
+      {
+        "company": "SoundHound AI, Inc.",
+        "ticker": "SOUN",
+        "summary": "SoundHound AI, Inc. creates voice-based AI products for various industries, including a voice assistant for restaurants.",
+        "why_it_matters": "Practical applications of voice AI in specific industries.",
+        "financial_context": "SOUN: $19.02 (-838.15%)",
+        "source_domain": "Not Available",
+        "process_log": "Not Available"
+      },
+      {
+        "company": "Quantum Computing Inc.",
+        "ticker": "QUBT",
+        "summary": "Quantum Computing Inc. develops quantum computers and semiconductor foundries, potentially playing a role in future AI hardware innovation.",
+        "why_it_matters": "Exploration of quantum computing's potential in advancing AI hardware.",
+        "financial_context": "QUBT: $18.33 (-218.78%)",
+        "source_domain": "Not Available",
+        "process_log": "Not Available"
+      },
+      {
+        "company": "MongoDB",
+        "ticker": "MDB",
+        "summary": "MongoDB's database technology is designed to support AI applications, integrating real-time data, search, and retrieval.",
+        "why_it_matters": "Essential database infrastructure enabling the functionality of AI applications.",
+        "financial_context": "MDB: $318.53 (+132.97%)",
+        "source_domain": "Not Available",
+        "process_log": "Not Available"
+      }
+    ]
+  },
+  "story_count": 15
+}

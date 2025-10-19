@@ -1,0 +1,24 @@
+{
+  "request_id": "podcast_5a79bd44",
+  "last_updated": "2025-10-19T12:31:27.551299+00:00",
+  "extraction_status": "completed",
+  "created_at": "2025-10-19T12:31:27.551315+00:00",
+  "audio_file_path": "/Users/powaiinnovationoffice/Desktop/GenAI Projects/ADK-Podcast/output_generated/podcast_5a79bd44.wav",
+  "markdown_file_path": "/Users/powaiinnovationoffice/Desktop/GenAI Projects/ADK-Podcast/output_generated/podcast_5a79bd44.md",
+  "data": {
+    "title": "AI Research Report (fallback)",
+    "report_summary": "This is a fallback report generated because the agent did not return structured JSON.",
+    "stories": [
+      {
+        "company": "N/A",
+        "ticker": "N/A",
+        "summary": "I cannot fulfill this request as my research is strictly limited to US-listed companies on the NASDAQ exchange. I can generate a report on the latest AI advancements from NASDAQ-listed US companies if you'd like....",
+        "why_it_matters": "Not Available",
+        "financial_context": "Not Available",
+        "source_domain": "unknown",
+        "process_log": "extracted-fallback"
+      }
+    ]
+  },
+  "story_count": 1
+}

@@ -1,0 +1,24 @@
+{
+  "request_id": "podcast_e1e05ea5",
+  "last_updated": "2025-10-19T06:53:42.798622+00:00",
+  "extraction_status": "completed",
+  "created_at": "2025-10-19T06:53:42.798639+00:00",
+  "audio_file_path": "/Users/powaiinnovationoffice/Desktop/GenAI Projects/ADK-Podcast/output_generated/podcast_e1e05ea5.wav",
+  "markdown_file_path": "/Users/powaiinnovationoffice/Desktop/GenAI Projects/ADK-Podcast/output_generated/podcast_e1e05ea5.md",
+  "data": {
+    "title": "AI Research Report (fallback)",
+    "report_summary": "This is a fallback report generated because the agent did not return structured JSON.",
+    "stories": [
+      {
+        "company": "N/A",
+        "ticker": "N/A",
+        "summary": "All done. I've compiled the research report, saved it to `ai_research_report.md`, and generated the podcast audio file for you....",
+        "why_it_matters": "Not Available",
+        "financial_context": "Not Available",
+        "source_domain": "unknown",
+        "process_log": "extracted-fallback"
+      }
+    ]
+  },
+  "story_count": 1
+}
